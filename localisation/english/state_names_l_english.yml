@@ -583,7 +583,7 @@
  STATE_443:0 "Sind"
  STATE_444: "South Baluchistan"
  STATE_445: "Sibi" # was Quetta
- STATE_446:1 "Suez"
+ STATE_446:1 "Soerabaja"
  STATE_447:0 "Alexandria"
  STATE_448:0 "Tripoli"
  STATE_449:0 "El Agheila"
@@ -1074,8 +1074,7 @@
  STATE_906:0 "Socotra"
  STATE_907:0 "Cairo"
  STATE_908:0 "Afar"
- STATE_909: "Schleswig"
- DEN_STATE_909: "Sydslesvig"
+ STATE_909: "Riau Islands"
  STATE_910: "Shkoder"
  STATE_911: "West Suez"
  STATE_912: "Friuli-Venezia Giulia"

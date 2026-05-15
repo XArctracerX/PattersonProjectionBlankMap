@@ -2,15 +2,17 @@ state={
 	id=816
 	name="STATE_816"
 	resources={
-		oil=1.000
-		steel=1.000
+		coal=153
 	}	
 	history={
+		owner = USA
 		buildings = {
 			industrial_complex = 2
 			infrastructure = 3 #was 6
 			air_base = 3
 		}
+		add_core_of = USA
+
 		victory_points = {
 			7588 3
 		}

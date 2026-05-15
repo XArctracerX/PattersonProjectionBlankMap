@@ -7,6 +7,9 @@ state = {
 
 	history = {
 
+		owner = ARG
+		add_core_of = ARG
+
 		buildings = {
 			infrastructure = 2
 			5152 = { dam = 1 }

@@ -9,9 +9,12 @@ state={
 	resources={
 		chromium = 8
 		tungsten = 38
+		coal = 4
 	}
 
 	history={
+		add_core_of = VIN
+		owner = FRA
 		victory_points = {
 			4075 15
 		}

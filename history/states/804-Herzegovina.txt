@@ -8,15 +8,21 @@ state={
 
 	resources={
 		aluminium = 7
+		coal = 3
 	}
 
 	history={
+		owner = YUG
 		buildings = {
 			infrastructure = 2 #was 3
 		}
 		victory_points = {
 			9894 3
 		}
+		add_core_of = YUG
+		add_core_of = BOS
+		add_core_of = CRO
+		add_core_of = HRZ
 	}
 
 	provinces={

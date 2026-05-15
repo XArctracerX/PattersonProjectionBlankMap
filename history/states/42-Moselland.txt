@@ -5,9 +5,11 @@ state={
 	resources={
 		steel=20
 		aluminium=4
+		coal = 27
 	}
 
 	history={
+		owner = GER
 		victory_points = {
 			11435 1 
 		}
@@ -22,6 +24,10 @@ state={
 			industrial_complex = 1
 
 		}
+		add_core_of = GER
+		add_core_of = PRE
+		add_core_of = RHI
+		set_demilitarized_zone = yes
 	}
 
 	provinces={

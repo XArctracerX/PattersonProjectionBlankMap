@@ -9,8 +9,13 @@ state={
 	resources = {
 		tungsten = 8
 		oil = 2
+		coal = 1
 	}
 	history={
+		owner = BRM
+		add_core_of = BRM
+		add_claim_by = YUN
+		add_claim_by = CHI
 		victory_points = {
 			7400 1 
 		}

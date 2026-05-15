@@ -6,6 +6,8 @@ state={
 	state_category = wasteland 
 	
 	history={
+		owner = NOR
+		add_core_of = NOR
 		buildings = {
 			infrastructure = 1
 			14302 = {
@@ -14,5 +16,5 @@ state={
 		}
 	}
 	
-	provinces={ 14302 14359 14387 14296 14484}
+	provinces={ 14302 14359 14387 14296 14484 14369}
 }

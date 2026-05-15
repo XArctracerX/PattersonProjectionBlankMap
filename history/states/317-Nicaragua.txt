@@ -5,6 +5,7 @@ state={
 		1988 2075 10728 12738 13139 13178 
 	}
 	history={
+		owner = NIC
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -14,6 +15,7 @@ state={
 				naval_base = 1
 			}
 		}
+		add_core_of = NIC
 		victory_points = {
 			12738 3 
 		}

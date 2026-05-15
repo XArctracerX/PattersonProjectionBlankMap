@@ -5,6 +5,7 @@ state={
 		rubber=12.000
 	}
 	history={
+		owner = LIB
 		buildings = {
 			infrastructure = 1
 			arms_factory = 1
@@ -21,6 +22,8 @@ state={
 		victory_points = {
 			13313 1
 		}
+		add_core_of = LIB
+
 	}
 	provinces={
 		7959 8006 

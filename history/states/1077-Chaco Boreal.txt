@@ -1,14 +1,19 @@
 state={
 	id=1077
 	name="STATE_1077"
+	resources={
 
+	}
+	
 	state_category = pastoral
 
 	history={
+		owner = BOL
 		buildings = {
 			infrastructure = 2 #was 3
 
 		}
+		add_core_of = BOL
 		victory_points = {
 			5179 1 
 		}

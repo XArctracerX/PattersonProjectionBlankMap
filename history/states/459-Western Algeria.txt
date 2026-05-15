@@ -7,9 +7,12 @@ state={
 	
 	resources={
 		steel=36
+		coal = 3
 	}
 
 	history={
+		owner = FRA
+		
 		victory_points = {
 			1145 5 
 		}
@@ -27,6 +30,7 @@ state={
 				naval_base = 6
 			}
 		}
+		add_core_of = ALG
 	}
 
 	provinces={

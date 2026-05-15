@@ -7,6 +7,8 @@ state={
 	state_category = tiny_island
 
 	history={
+		owner = ENG
+                            add_claim_by = USA
 		buildings = {
 			infrastructure = 2
 			13050 = {

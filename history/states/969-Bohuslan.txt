@@ -4,11 +4,17 @@ state={
 	manpower = 159307
 	
 	state_category = rural
+
+	resources = {
+		coal = 2
+	}
 	
 	history = {
+		owner = SWE
 		buildings = {
 			infrastructure = 3
 		}
+		add_core_of = SWE
 		victory_points = {
 			6310 1 
 		}

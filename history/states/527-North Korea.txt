@@ -7,9 +7,11 @@ state={
 	
 	resources={
 		steel = 18 # was: 30
+		coal = 2
 	}
 
 	history={
+		owner = JAP
 		buildings = {
 			infrastructure = 2 #was 3
 			air_base = 1 #was: 0 [Pyeongan]
@@ -22,6 +24,7 @@ state={
 		victory_points = {
 			11775 1
 		}
+		add_core_of = KOR
 	}
 
 	provinces={

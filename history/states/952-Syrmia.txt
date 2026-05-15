@@ -5,6 +5,7 @@ state={
 		11577 11580 
 	}
 	history={
+		owner = YUG
 		victory_points = {
 			11580 3
 		}
@@ -14,6 +15,8 @@ state={
 			arms_factory = 1
 			industrial_complex = 1
 		}
+		add_core_of = YUG
+		add_core_of = SER
 	}
 	manpower=467200
 	buildings_max_level_factor=1.000

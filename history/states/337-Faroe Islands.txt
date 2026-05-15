@@ -6,6 +6,7 @@ state= {
 	state_category = small_island
 	
 	history= {
+		owner = DEN
 		buildings = {
 			infrastructure = 2 #was 4
 			13003 = {
@@ -13,6 +14,7 @@ state= {
 			}
 		}
 		victory_points = { 13003 1 }
+		add_core_of = DEN
 	}
 	provinces= { 13003 }
 

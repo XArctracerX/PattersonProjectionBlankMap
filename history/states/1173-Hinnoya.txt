@@ -6,6 +6,8 @@ state={
 	state_category = wasteland 
 	
 	history={
+		owner = NOR
+		add_core_of = NOR
 		buildings = {
 			infrastructure = 1
 			11157 = {

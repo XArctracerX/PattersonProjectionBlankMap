@@ -8,9 +8,11 @@ state={
 
 	resources = {
 		chromium = 1
+		coal = 3
 	}
 
 	history={
+		owner = BUL
 		victory_points = { #Plovdiv
 			6923 10
 		}
@@ -26,6 +28,7 @@ state={
 			industrial_complex = 1
 			air_base = 2
 		}
+		add_core_of = BUL
 	}
 
 	provinces={

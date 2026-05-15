@@ -6,6 +6,11 @@ state={
 		chromium=22.000
 	}
 	history={
+		owner = MAN
+		add_core_of = MAN
+		add_core_of = CHI
+		add_core_of = PRC
+		
 		buildings = {
 			infrastructure = 2 #was 4
 			air_base = 4
@@ -15,6 +20,10 @@ state={
 				bunker = 2
 			}
 		}
+		# victory_points = {
+		# 	13150 1
+		# }
+
 	}
 	provinces={
 		1776 4745 4852 4876 7697 7743 7894 10567 10612 10638 12690 13150 

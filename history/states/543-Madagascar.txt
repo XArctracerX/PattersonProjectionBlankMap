@@ -5,8 +5,14 @@ state={
 	manpower = 3694611
 	
 	state_category = rural
+
+	resources = {
+		coal = 2 
+	}
 	
 	history={
+		add_core_of = MAD
+		owner = FRA
 		victory_points = {
 			5128 1
 		}

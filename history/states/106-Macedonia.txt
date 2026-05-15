@@ -7,6 +7,7 @@ state={
 	}
 
 	history={
+		owner = YUG
 		buildings = {
 			infrastructure = 2
 			air_base = 2
@@ -14,6 +15,10 @@ state={
 		victory_points = {
 			3882 5
 		}
+		add_core_of = YUG
+		add_core_of = MAC
+		add_core_of = BUL
+		add_claim_by = SER
 	}
 
 	provinces={

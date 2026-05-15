@@ -7,10 +7,12 @@ state={
 	state_category = town
 
 	history={
+		owner = BRA
 		buildings = {
 			infrastructure = 1
 
 		}
+		add_core_of = BRA
 		victory_points = { 2111 1 }
 		victory_points = { 12951 3 }
 		victory_points = { 8224 1 }

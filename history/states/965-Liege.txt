@@ -2,6 +2,7 @@ state={
 	id=965
 	name="STATE_965"
 	history={
+		owner = BEL
 		victory_points = {
 			3488 1
 		}
@@ -10,6 +11,8 @@ state={
 			# Gileppe Dam
 			3488 = { dam = 1 }
 		}
+		add_core_of = BEL
+		#add_core_of = PRE
 	}
 	provinces={
 		3488 

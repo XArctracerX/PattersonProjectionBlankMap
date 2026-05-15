@@ -1,0 +1,28 @@
+state = {
+	id = 1221
+	name = "STATE_1221"
+	resources = {
+		#steel = 3
+		#tungsten = 3
+	}
+
+	history = {
+		owner = YUN
+		add_core_of = CHI
+		add_core_of = PRC
+
+		buildings = {
+			infrastructure = 1 #was 2
+			arms_factory = 1
+		}
+	}
+
+	provinces = {
+		5072 10819 12841
+	}
+	manpower = 3006200
+	buildings_max_level_factor = 1.000
+	state_category = city
+
+	local_supplies = 0.0 
+}

@@ -5,6 +5,7 @@ state={
 		1009 1156 3857 4014 4159 7059 7147 10074 12047 13256 
 	}
 	history={
+		owner = ITA
 		victory_points = {
 			10074 20 
 		}
@@ -39,6 +40,8 @@ state={
 
 			}
 		}
+		add_core_of = ITA
+		add_core_of = TTS	#vanilla addition
 	}
 	manpower=3836571
 	buildings_max_level_factor=1.000

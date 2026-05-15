@@ -3,9 +3,11 @@ state={
 	name="STATE_166"
 	resources={
 		steel=15
+		coal = 5
 	}
 
 	history={
+		owner = SPR
 		victory_points = {
 			3816 3 
 		}
@@ -20,6 +22,7 @@ state={
 			industrial_complex = 1
 			air_base = 3
 		}
+		add_core_of = SPR
 	}
 
 	provinces={

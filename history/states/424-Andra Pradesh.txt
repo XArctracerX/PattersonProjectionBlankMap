@@ -5,8 +5,12 @@ state={
 	manpower = 15791700
 	state_category = rural
 	
+	resources = {
+		coal = 5
+	}
 
 	history={
+		owner = RAJ
 		buildings = {
 			infrastructure = 2 #was 4
 			industrial_complex = 1

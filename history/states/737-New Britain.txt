@@ -3,6 +3,8 @@ state={
 	name="STATE_737"
 
 	history={
+		add_core_of = PNG
+		owner = AST
 		buildings = {
 			infrastructure = 1
 			air_base = 1
@@ -45,6 +47,15 @@ state={
 			4226 1 
 		}
 		
+		strategic_province_location = {
+			defensive_chokepoint = 7251
+		}
+		strategic_province_location = {
+			natural_harbor = 7251
+		}
+		strategic_state_location = {
+			favorable_approach = 10206
+		}
 	}
 
 	provinces={

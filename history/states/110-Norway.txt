@@ -14,6 +14,7 @@ state = {
 			11151 2
 		}
 		
+		owner = NOR
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
@@ -27,6 +28,7 @@ state = {
 			#Solbergfoss Hydroelectric Power Station
 			11184 = { dam = 1 }
 		}
+		add_core_of = NOR
 	}
 
 	provinces={

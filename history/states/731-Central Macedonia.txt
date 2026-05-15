@@ -8,9 +8,11 @@ state={
 	resources={
 		chromium = 14
 		steel = 14
+		coal = 2
 	}
 
 	history={
+		owner = GRE
 		victory_points = {
 			11818 5 
 		}
@@ -27,6 +29,9 @@ state={
 				naval_base = 3
 			}
 		}
+		add_core_of = GRE
+		add_claim_by = MAC
+		add_claim_by = BUL
 	}
 	
 	provinces={

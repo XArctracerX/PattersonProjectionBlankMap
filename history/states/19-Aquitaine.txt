@@ -8,6 +8,7 @@ state={
 	}
 
 	history={
+		owner = FRA
 		victory_points = {
 			9737 20 
 		}
@@ -21,6 +22,8 @@ state={
 				coastal_bunker = 1
 			}
 		}
+		add_claim_by = OCC
+		add_core_of = FRA
 	}
 
 	provinces={

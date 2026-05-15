@@ -4,9 +4,11 @@ state={
 	name="STATE_809"
 
 	history={
+		owner = LAT
 		buildings = {
 			infrastructure = 2
 		}
+		add_core_of = LAT
 		victory_points = {
 			6222 3 #Jelgava
 		}

@@ -5,6 +5,8 @@ state={
 		steel=3.000
 	}
 	history={
+		owner = SWE
+		add_core_of = SWE
 		victory_points = {
 			11380 1 
 		}
@@ -24,7 +26,7 @@ state={
 
 	}
 	provinces={
-		6311 6397 9308 9393 11289 11311 11380 11390 13095 13323 13324 
+		6311 6397 9308 9393 11289 11311 11380 11390 13323 13324 
 	}
 	manpower=505226
 	buildings_max_level_factor=1.000

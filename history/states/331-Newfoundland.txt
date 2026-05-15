@@ -7,6 +7,7 @@ state={
 	state_category = rural
 
 	history={
+		owner = ENG
 		buildings = {
 			infrastructure = 2 #was 3
 			industrial_complex = 1
@@ -14,6 +15,7 @@ state={
 				naval_base = 1
 			}
 		}
+		add_core_of = CAN
 		
 		victory_points = {
 			12505 1

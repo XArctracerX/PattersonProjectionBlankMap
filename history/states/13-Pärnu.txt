@@ -7,6 +7,7 @@ state={
 	}
 
 	history={
+		owner = EST
 		victory_points = {
 			3174 1 #Voru
 		}
@@ -17,6 +18,8 @@ state={
 			air_base = 2
 
 		}
+		add_core_of = EST
+
 	}
 
 	provinces={

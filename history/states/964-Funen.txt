@@ -5,6 +5,7 @@ state={
 		332 11251 13258 
 	}
 	history={
+		owner = DEN
 		victory_points = {
 			11251 1 
 		}
@@ -14,6 +15,9 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
+		add_core_of = DEN
+		add_core_of = SHL
+
 	}
 	manpower=230013
 	buildings_max_level_factor=1.000

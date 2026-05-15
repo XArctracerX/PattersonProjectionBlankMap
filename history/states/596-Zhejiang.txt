@@ -6,6 +6,10 @@ state=
 	state_category = city
 	history=
 	{
+		owner = CHI
+		add_core_of = CHI
+		add_core_of = PRC
+		
 		victory_points = { 
 			9974 1 
 		}

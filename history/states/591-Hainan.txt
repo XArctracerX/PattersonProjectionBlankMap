@@ -4,7 +4,16 @@ state={
 	manpower = 4350000
 	state_category = town
 
+	resources = {
+		coal = 8 
+	}
+
 	history={
+		owner = GXC
+		add_core_of = GXC
+		add_core_of = CHI
+		add_core_of = PRC
+		
 		victory_points = {
 			1070 1 
 		}

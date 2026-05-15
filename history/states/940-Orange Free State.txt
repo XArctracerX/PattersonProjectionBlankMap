@@ -4,7 +4,14 @@ state={
 	provinces={
 		5231 12064 12648 
 	}
+
+	resources = {
+		coal = 7
+	}
+
 	history={
+		owner = SAF
+		add_core_of = SAF
 		buildings = {
 			infrastructure = 3 #was 5
 		}

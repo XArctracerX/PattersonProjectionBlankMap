@@ -4,7 +4,10 @@ state={
 	manpower=30
 	state_category = tiny_island
 	
-	history={
+	history=
+	{
+		owner = ENG
+		add_core_of = ANT
 		buildings = {
 			infrastructure = 1
 			14030 = {

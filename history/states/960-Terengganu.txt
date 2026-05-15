@@ -6,6 +6,7 @@ state={
 		rubber = 124
 	}
 	history={
+		owner = MAL
 		victory_points = {
 			7329 1 
 		}
@@ -15,6 +16,7 @@ state={
 				naval_base = 1
 			}
 		}
+		add_core_of = MAL
 	}
 	provinces={
 		4355 7329 12199 

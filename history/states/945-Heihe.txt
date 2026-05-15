@@ -5,6 +5,11 @@ state={
 		1693 7832 7848 10541 10675 10698 12537 12548 
 	}
 	history={
+		owner = MAN
+		add_core_of = MAN
+		add_core_of = CHI
+		add_core_of = PRC
+		#add_claim_by = GUK
 		victory_points = {
 			12548 1
 		}

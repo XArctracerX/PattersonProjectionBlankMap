@@ -8,13 +8,19 @@ state={
 		2182 2210 2225 5202 12953 13288 
 	}
 	history={
+		owner = PRU
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 			arms_factory = 1
 			air_base = 1
 
+			# 13350 = {
+			# 	naval_base = 1
+			# }
+
 		}
+		add_core_of = PRU
 		victory_points = {
 			2210 5 
 		}
@@ -22,6 +28,11 @@ state={
 		victory_points = {
 			13348 1
 		}
+
+		# victory_points = {
+		# 	13350 1
+		# }
+
 	}
 	manpower=1601278
 	buildings_max_level_factor=1.000

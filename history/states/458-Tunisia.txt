@@ -9,6 +9,7 @@ state={
 	}
 
 	history={
+		owner = FRA
 		victory_points = {
 			11969 10 
 		}
@@ -29,6 +30,7 @@ state={
 				naval_base = 2
 			}
 		}
+		add_core_of = TUN
 	}
 
 	provinces={

@@ -11,6 +11,7 @@ state={
 	#}
 
 	history={
+		owner = ITA
 		victory_points = {
 			6606 3 
 		}
@@ -26,6 +27,8 @@ state={
 			air_base = 2
 			arms_factory = 2
 		}
+		add_core_of = ITA
+		add_core_of = PAP
 	}
 
 	provinces={

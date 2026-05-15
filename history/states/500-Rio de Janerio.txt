@@ -11,6 +11,7 @@ state={
 	#}
 
 	history={
+		owner = BRA
 		buildings = {
 			infrastructure = 3 #was: 6
 			arms_factory = 2
@@ -19,8 +20,15 @@ state={
 			air_base = 4
 			10980 = {
 				naval_base = 8
+                landmark_cristo_redentor = {
+                    level = 1
+                    allowed = {
+                        has_dlc = "Gotterdammerung"
+                    }
+                }
 			}
 		}
+		add_core_of = BRA
 		victory_points = { 10980 30 }
 		victory_points = { 12996 10 }
 	}

@@ -5,14 +5,24 @@ state={
 		2175 10933 13273 
 	}
 	history={
+		owner = BRA
 		buildings = {
 			infrastructure = 1
 			10933 = {
 				naval_base = 2
 			}
 		}
+		add_core_of = BRA
 		victory_points = { 
 			10933 3 
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_dlc = "Trial of Allegiance"
+				}
+			}
+			set_demilitarized_zone = yes
 		}
 	}
 	manpower=535261

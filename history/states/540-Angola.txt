@@ -6,6 +6,7 @@ state={
 	state_category=town
 
 	history={
+		owner = POR
 		buildings = {
 			infrastructure = 1
 			8248 = {
@@ -16,6 +17,7 @@ state={
 		victory_points = {
 			8248 1 
 		}
+		add_core_of = ANG
 	}
 
 	provinces={

@@ -3,9 +3,11 @@ state={
 	name="STATE_432"
 	resources={
 		oil=5
+		coal=1
 	}
 
 	history={
+		owner = RAJ
 		buildings = {
 			infrastructure = 2 #was 3
 			industrial_complex = 1

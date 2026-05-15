@@ -1,0 +1,33 @@
+state = {
+	id = 1223
+	name = "STATE_1223"
+	resources = {
+		#steel = 3
+		#tungsten = 3
+	}
+
+	history = {
+		owner = GER
+		add_core_of = GER
+		add_core_of = PRE
+
+		victory_points = {
+			14506 25 
+		}
+
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			anti_air_building = 2
+		}
+	}
+
+	provinces = {
+		14506
+	}
+	manpower = 1506200
+	buildings_max_level_factor = 1.000
+	state_category = megalopolis
+
+	local_supplies = 0.0 
+}

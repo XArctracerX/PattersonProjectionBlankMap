@@ -10,6 +10,7 @@ state={
 	state_category = city
 
 	history={
+		owner = FRA
 		victory_points = {
 			9434 5
 		}
@@ -41,6 +42,7 @@ state={
 				naval_base = 1
 			}
 		}
+		add_core_of = FRA
 	}
 
 	provinces={

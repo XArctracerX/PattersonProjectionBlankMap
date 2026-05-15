@@ -5,6 +5,8 @@ state = {
 	state_category = enclave
 	
 	history= {
+		owner = CHL
+		add_core_of = CHL
 		buildings = {
 			infrastructure = 1
 			13294 = {

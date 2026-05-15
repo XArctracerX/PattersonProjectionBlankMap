@@ -5,10 +5,12 @@ state={
 		2136 8195 8216 8253 12928 12978 13309  
 	}
 	history={
+		owner = ARG
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
+		add_core_of = ARG
 		victory_points = {
 			8216 3 
 		}

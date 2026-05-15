@@ -2,7 +2,12 @@ state={
 	id=470
 	name="STATE_470"
 
+	resources = {
+		coal = 9 
+	}
+
 	history={
+		owner = CAN
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -14,6 +19,8 @@ state={
 		victory_points = {
 			3706 1
 		}
+		add_core_of = CAN
+
 	}
 
 	provinces={

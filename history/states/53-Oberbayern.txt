@@ -7,9 +7,12 @@ state={
 	state_category = city
 
 	history={
+		owner = GER
 		buildings = {
 			infrastructure = 3
 		}
+		add_core_of = GER
+		add_core_of = BAY
 		victory_points = {
 			9515 3
 		}

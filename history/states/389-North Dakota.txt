@@ -7,13 +7,16 @@ state={
 	resources={
 		steel=17 # was: 24
 		oil=7 # was: 10
+		coal=19
 	}
 
 	history={
+		owner = USA
 		buildings = {
 			infrastructure = 2 #was 4
 			industrial_complex = 1
 		}
+		add_core_of = USA
 		victory_points = {
 			1836 2
 		}

@@ -4,17 +4,25 @@ state={
 	provinces={
 		11832 11857 11868 
 	}
+
+	resources = {
+		coal = 2
+	}
+
 	history={
 		victory_points = {
 			11857 1 
 		}
+		owner = YUG
 		buildings = {
 			infrastructure = 2 #was 4
 		}
 		victory_points = {
 			11868 1 
 		}
-
+		add_core_of = YUG
+		add_core_of = BUL
+		add_core_of = SER
 
 	}
 	manpower=201000

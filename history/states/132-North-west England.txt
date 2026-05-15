@@ -8,9 +8,11 @@ state= {
 	resources={
 		steel=31 # was: 56
 		aluminium=2 # was: 4
+		coal = 63
 	}
 
 	history= {
+		owner = ENG
 		victory_points = {
 			6384 30 
 		}
@@ -28,6 +30,7 @@ state= {
 				naval_base = 5
 			}
 		}
+		add_core_of = ENG
 	}
 	provinces= {
 		3205 6318 6335 6384

@@ -8,15 +8,18 @@ state={
 	
 	resources={
 		steel=11 # was: 20
+		coal = 13
 	}
 
 	history={
+		owner = ENG
 		buildings = {
 			infrastructure = 4 #was: 8
 			# arms_factory = 1 moved to wales
 			industrial_complex = 1
 			air_base = 5
 		}
+		add_core_of = ENG
 		victory_points = {
 			11279 5
 		}

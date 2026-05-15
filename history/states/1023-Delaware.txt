@@ -5,6 +5,7 @@ state={
 		9786 
 	}
 	history={
+		owner = USA
 		victory_points = {
 			9786 2 
 		}
@@ -12,6 +13,8 @@ state={
 			infrastructure = 3 #was: 7
 			industrial_complex = 1
 		}
+		add_core_of = USA
+
 	}
 	manpower=253112
 	buildings_max_level_factor=1.000

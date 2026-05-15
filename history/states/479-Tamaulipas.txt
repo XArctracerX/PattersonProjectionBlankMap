@@ -5,6 +5,7 @@ state={
 		oil=10.000
 	}
 	history={
+		owner = MEX
 		buildings = {
 			infrastructure = 2 #was 3
 			industrial_complex = 1
@@ -16,6 +17,8 @@ state={
 				naval_base = 1 
 			}
 		}
+		add_core_of = MEX
+		add_core_of = RIG
 		victory_points = {
 			12835 20 
 		}

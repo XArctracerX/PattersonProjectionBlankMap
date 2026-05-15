@@ -5,10 +5,12 @@ state={
 	
 	state_category = rural
 	history={
+		owner = PHI
 		buildings = {
 			industrial_complex = 1
 			infrastructure = 2
 		}
+		add_core_of = PHI
 		victory_points = {
 			1224 1
 		}

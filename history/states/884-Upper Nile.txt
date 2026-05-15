@@ -8,6 +8,7 @@ state = {
 	}
 
 	history = {
+		owner = ENG
 		buildings = {
 			infrastructure = 2
 
@@ -15,6 +16,8 @@ state = {
 		victory_points = {
 			2096 3 
 		}
+		add_core_of = SUD
+
 	}
 
 	provinces = {

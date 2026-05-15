@@ -9,6 +9,7 @@ state={
 	}
 
 	history={
+		owner = AST
 		buildings = {
 			infrastructure = 3 #was: 6
 			arms_factory = 2
@@ -28,6 +29,8 @@ state={
 		victory_points = {
 			7755 3
 		}
+
+		add_core_of = AST
 
 	}
 

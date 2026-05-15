@@ -7,9 +7,11 @@ state={
 	state_category = megalopolis
 	resources={
 		steel=16 # was: 28
+		coal = 16
 	}
 
 	history={
+		owner = SOV
 		victory_points = {
 			6380 50 
 		}
@@ -18,7 +20,16 @@ state={
 			arms_factory = 5 # was 7
 			industrial_complex = 3
 			air_base = 10
+			6380 = {
+                landmark_kremlin = {
+                    level = 1
+                    allowed = {
+                        has_dlc = "Gotterdammerung"
+                    }
+                }
+            }
 		}
+		add_core_of = SOV
 	}
 
 	provinces={

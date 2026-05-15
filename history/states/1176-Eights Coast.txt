@@ -3,9 +3,10 @@ state={
 	name="STATE_1176"
 	provinces={
 		13589 13590 13600 13620 13621 13631 13640 13646 13647 
-	}
-		
-    history={
+}
+		history={
+		owner = ANT	
+		add_core_of = ANT
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

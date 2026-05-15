@@ -8,12 +8,16 @@ state={
 		victory_points = {
 			3288 3
 		}
+		owner = LIT
 		buildings = {
 			infrastructure = 3 #was: 5
 			3288 = {
 				naval_base = 1
 			}
 		}
+		add_core_of = LIT
+		add_core_of = PRE
+
 	}
 	manpower=150000
 	buildings_max_level_factor=1.000

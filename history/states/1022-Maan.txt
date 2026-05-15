@@ -1,18 +1,22 @@
 
 state={
-	id=1022
-	name="STATE_1022"
-	manpower = 52844
-	
+	id = 1022
+	name = "STATE_1022"
+	manpower = 52844	
 	state_category = wasteland
+	local_supplies = 0.0 
 
-	history={
+	history = {
+		owner = JOR
+		add_core_of = JOR
+
 		buildings = {
 			infrastructure = 1
 			4115 = {
 				naval_base = 1
 			}		
 		}
+
 		victory_points = {
 			11976 1 
 		}
@@ -21,9 +25,7 @@ state={
 		}
 	}
 
-	provinces={
+	provinces = {
 		4017 4115 4562 4591 4603 11976
 	}
-
-	local_supplies=0.0 
 }

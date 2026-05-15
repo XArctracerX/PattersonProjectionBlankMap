@@ -5,6 +5,7 @@ state={
 		4861 12674 13271 
 	}
 	history={
+		owner = ICE
 		victory_points = {
 			12674 3 
 		}
@@ -23,6 +24,9 @@ state={
 			}
 
 		}
+		add_claim_by = DEN
+		add_core_of = ICE
+
 	}
 	manpower=77247
 	buildings_max_level_factor=1.000

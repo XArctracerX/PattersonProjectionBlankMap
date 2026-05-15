@@ -1,0 +1,42 @@
+state = {
+	id = 1222
+	name = "STATE_1222"
+	resources = {
+		#steel = 3
+		#tungsten = 3
+	}
+
+	history = {
+		owner = GER
+		add_core_of = GER
+		add_core_of = PRE
+
+		victory_points = {
+			6521 25 
+		}
+
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			anti_air_building = 2
+
+			6521 = {
+                landmark_berlin_reichstag = {
+                    level = 1
+                    allowed = {
+                        has_dlc = "Gotterdammerung"
+                    }
+                }
+            }
+		}
+	}
+
+	provinces = {
+		6521
+	}
+	manpower = 1506200
+	buildings_max_level_factor = 1.000
+	state_category = megalopolis
+
+	local_supplies = 0.0 
+}

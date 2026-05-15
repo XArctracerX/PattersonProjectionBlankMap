@@ -8,6 +8,7 @@ state={
 		4904 4965 12715 
 	}
 	history={
+		owner = MEX
 		buildings = {
 			infrastructure = 2 #was 3
 			arms_factory = 1
@@ -19,6 +20,7 @@ state={
 				naval_base = 3
 			}
 		}
+		add_core_of = MEX
 		victory_points = {
 			12715 1
 		}

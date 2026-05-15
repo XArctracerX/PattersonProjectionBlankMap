@@ -8,10 +8,13 @@ state={
 	# 	oil=7 # oil extracted much later
 	# }
 	history={
+		owner = SOV
 		buildings = {
 			infrastructure = 1 #was 2
 
 		}
+		add_core_of = SOV
+		add_core_of = KOM
 	}
 
 	provinces={

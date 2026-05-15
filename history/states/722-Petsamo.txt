@@ -6,6 +6,7 @@ state={
 	state_category = enclave
 
 	history={
+		owner = SOV
 		buildings = {
 			infrastructure = 2 #was 3
 			9140 = {
@@ -15,6 +16,8 @@ state={
 		victory_points = {
 			9140 1
 		}
+		add_core_of = SOV
+		add_core_of = SMI
 	}
 	
 	provinces={

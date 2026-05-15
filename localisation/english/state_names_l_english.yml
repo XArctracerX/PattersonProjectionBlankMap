@@ -556,7 +556,7 @@
  STATE_416:0 "Khorasan"
  STATE_417:0 "Hamadan"
  STATE_418:0 "Semnan"
- STATE_419:1 "West Azerbaijan"
+ STATE_419:1 "Tabriz"
  STATE_420:0 "Gilan"
  STATE_421:0 "Ilam"
  STATE_422:0 "Ceylon"
@@ -1382,7 +1382,13 @@
  STATE_1214:0 "Novaya Zemlya"
  STATE_1215:0 "Wrangel Island"
  STATE_1216:0 "Isla Salas y Gomez"
-
+ STATE_1217:0 "Yan'an"
+ STATE_1218:0 "Ulanqab"
+ STATE_1219:0 "Zhangjiakou"
+ STATE_1220:0 "Hotang"
+ STATE_1221:0 "Zhaotong"
+ STATE_1222:0 "West Berlin"
+ STATE_1223:0 "East Berlin"
 
 
 

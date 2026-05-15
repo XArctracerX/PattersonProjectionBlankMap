@@ -10,6 +10,7 @@ state={
 	state_category = town
 
 	history={
+		owner = SOV
 		victory_points = {
 			957 15
 		}
@@ -25,6 +26,10 @@ state={
 				coastal_bunker = 3
 			}
 		}
+		add_core_of = SOV
+		
+		add_core_of = FER
+		add_core_of = VLA
 	}
 
 	provinces={

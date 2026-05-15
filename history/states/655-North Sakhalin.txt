@@ -5,9 +5,15 @@ state={
 	manpower = 94759
 	resources={
 		oil=3
+		coal = 5
 	}	
 	state_category = pastoral
 	history={
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = FER
+		
+		add_claim_by = JAP
 		buildings = {
 			infrastructure = 2 #was 3
 			air_base = 1

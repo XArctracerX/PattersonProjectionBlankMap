@@ -5,6 +5,7 @@ state={
 		chromium=2.000
 	}
 	history={
+		owner = NEP
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -17,6 +18,8 @@ state={
 		victory_points = {
 			5310 1
 		}
+		add_core_of = NEP
+
 	}
 	provinces={
 		4987 5310 10910 12892 

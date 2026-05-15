@@ -5,6 +5,7 @@ state={
 		13204 
 	}
 	history = {
+		owner = SOV
 		victory_points = {
 			13204 1 
 		}
@@ -14,6 +15,10 @@ state={
 				naval_base = 1
 			}
 		}
+		add_core_of = SOV
+		add_core_of = CKK
+		add_core_of = FER
+
 	}
 	manpower=7426
 	buildings_max_level_factor=1.000

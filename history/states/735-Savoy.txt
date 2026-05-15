@@ -4,7 +4,14 @@ state={
 
 	state_category = town
 
+	resources = {
+		coal = 2
+	}
+
 	history={
+		owner = FRA
+		add_core_of = OCC
+		add_core_of = FRA
 		victory_points = {
 			778 1 
 		}

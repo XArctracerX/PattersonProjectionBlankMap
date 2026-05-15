@@ -1,0 +1,27 @@
+state = {
+	id = 1016
+	name = "STATE_1016"
+	manpower = 118745
+	buildings_max_level_factor = 1.000
+	state_category = town
+	local_supplies = 0.000
+
+	history={
+		owner = PAL
+		add_core_of = ISR
+		add_core_of = PAL
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+
+		victory_points = {
+			1086 10
+		}
+	}
+
+	provinces = {
+		1086
+	}
+}

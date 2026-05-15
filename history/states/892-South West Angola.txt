@@ -5,6 +5,7 @@ state={
 	state_category = rural
 
 	history={
+		owner = POR
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
@@ -12,6 +13,8 @@ state={
 		victory_points = {
 			10966 1 
 		}
+		add_core_of = ANG
+
 	}
 
 	provinces={

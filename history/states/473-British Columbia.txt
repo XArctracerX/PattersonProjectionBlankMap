@@ -3,13 +3,15 @@ state={
 	id=473
 	name="STATE_473"
 	manpower = 712438
-	#resources={  #Rolla, British Columbia is in state 471, also it's too isolated at the time.
-	#	#	oil=1 # was: 2
-	#}
+	resources={  #Rolla, British Columbia is in state 471, also it's too isolated at the time.
+		oil = 2
+		coal = 7
+	}
 	
 	state_category = town
 
 	history={
+		owner = CAN
 		buildings = {
 			infrastructure = 3 #was: 5
 			arms_factory = 1
@@ -20,7 +22,7 @@ state={
 				naval_base = 5
 			}
 		}
-
+		add_core_of = CAN
 		victory_points = {
 			1408 20
 		}

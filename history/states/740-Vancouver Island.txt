@@ -7,9 +7,11 @@ state={
 	state_category = rural
 
 	history={
+		owner = CAN
 		buildings = {
 			infrastructure = 1 #was 2
 		}
+		add_core_of = CAN
 		victory_points = {
 			7259 1
 		}

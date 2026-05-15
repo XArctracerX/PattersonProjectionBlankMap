@@ -12,6 +12,9 @@ state = {
 
 	history = { 
 
+		owner = URG
+		add_core_of = URG
+
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

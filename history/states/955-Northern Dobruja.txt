@@ -5,6 +5,7 @@ state={
 		657 687 3076 9635 
 	}
 	history={
+		owner = ROM
 		victory_points = {
 			657 3 
 		}
@@ -21,6 +22,7 @@ state={
 			dockyard = 1
 
 		}
+		add_core_of = ROM
 	}
 	manpower=503290
 	buildings_max_level_factor=1.000

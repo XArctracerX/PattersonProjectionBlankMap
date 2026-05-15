@@ -3,8 +3,12 @@ state={
 	id=362
 	name="STATE_362"
 
+	resources = {
+		coal = 19 
+	}
 
 	history={
+		owner = USA
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 3
@@ -14,6 +18,8 @@ state={
 				naval_base = 10
 			}
 		}
+		add_core_of = USA
+		add_core_of = CSA
 		victory_points = {
 			788 10 
 		}

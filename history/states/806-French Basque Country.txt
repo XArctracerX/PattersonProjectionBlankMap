@@ -4,13 +4,18 @@ state={
 	name="STATE_806"
 
 	history={
+		owner = FRA
 		victory_points = {
 			9710 3 
 		}
+		add_core_of = NAV
+		add_core_of = OCC
 		buildings = {
 			infrastructure = 3 #was: 6
 			air_base = 1
 		}
+		add_core_of = FRA
+
 	}
 
 	provinces={

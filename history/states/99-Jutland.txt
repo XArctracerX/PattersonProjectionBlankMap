@@ -8,6 +8,7 @@ state={
 		316 394 399 3206 3277 3341 6235 6364 13322 13262
 	}
 	history={
+		owner = DEN
 		victory_points = {
 			6364 3 
 		}
@@ -35,6 +36,8 @@ state={
 				naval_base = 1
 			}
 		}
+		add_core_of = DEN
+
 	}
 	manpower=1442222
 	buildings_max_level_factor=1.000

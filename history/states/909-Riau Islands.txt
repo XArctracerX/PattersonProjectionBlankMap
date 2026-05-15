@@ -9,6 +9,8 @@ state={
 		12113 13298
 	}
 	history = {
+		owner = INS
+		add_core_of = INS
 		buildings = {
 			infrastructure = 2
 			12113 = {

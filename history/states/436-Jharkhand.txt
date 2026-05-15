@@ -8,9 +8,11 @@ state={
 	
 	resources={
 		chromium=4 # was: 6
+		coal = 10
 	}
 
 	history={
+		owner = RAJ
 		buildings = {
 			infrastructure = 2 #was 4
 		}

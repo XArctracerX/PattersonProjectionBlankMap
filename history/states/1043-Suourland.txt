@@ -5,6 +5,7 @@ state={
 		12689 13266 13267 13268 
 	}
 	history={
+		owner = ICE
 		buildings = {
 			infrastructure = 1
 
@@ -12,6 +13,9 @@ state={
 		victory_points = {
 			13331 1
 		}
+		add_claim_by = DEN
+		add_core_of = ICE
+
 	}
 	manpower=38623
 	buildings_max_level_factor=1.000

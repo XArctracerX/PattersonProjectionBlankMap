@@ -6,6 +6,7 @@ state={
 	state_category = town
 
 	history={
+		owner = SOV
 		victory_points = {
 			11405 1
 		}
@@ -16,6 +17,8 @@ state={
 			# Dnieprostroi Hydroelectric Station
 			11405 = { dam = 1 }
 		}
+		add_core_of = SOV
+		add_core_of = UKR
 	}
 
 	provinces={

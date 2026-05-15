@@ -4,6 +4,7 @@ state={
 	name="STATE_544"
 	manpower = 1541928
 	history={
+		owner = POR
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -14,6 +15,8 @@ state={
 		victory_points = {
 			8245 3
 		}
+		add_core_of = MZB
+
 	}
 
 	provinces={

@@ -5,8 +5,13 @@ state={
 	manpower = 444219
 	
 	state_category = rural
+
+	resources = {
+		coal = 2 
+	}
 	
 	history={
+		owner = MEX
 		buildings = {
 			infrastructure = 2 #was 3
 			dockyard = 1
@@ -14,7 +19,7 @@ state={
 				naval_base = 3
 			}
 		}
-
+		add_core_of = MEX
 		victory_points = {
 			8057 3
 		}

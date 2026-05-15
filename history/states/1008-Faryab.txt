@@ -7,12 +7,15 @@ state={
 	state_category = rural
 	
 	history={
+		owner = AFG
+		add_claim_by = TMS
 		buildings = {
 			infrastructure = 1
 		}
 		victory_points = {
 			7448 1
 		}
+		add_core_of = AFG
 	}
 
 	provinces={

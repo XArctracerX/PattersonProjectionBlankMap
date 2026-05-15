@@ -7,6 +7,7 @@ state={
 	state_category = rural
 
 	history={
+		owner = OMA
 		buildings = {
 			infrastructure = 1 #was 3
 			arms_factory = 1
@@ -19,6 +20,9 @@ state={
 		victory_points = {
 			10760 3 
 		}
+	
+	
+		add_core_of = OMA
 	}
 
 	provinces={

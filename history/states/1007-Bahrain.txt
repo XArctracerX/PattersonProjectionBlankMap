@@ -8,6 +8,8 @@ state={
 		oil= 6
 	}
 	history={
+                add_claim_by = PER
+		owner = ENG
 		victory_points = {
 			13313 1
 		}

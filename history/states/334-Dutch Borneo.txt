@@ -5,9 +5,12 @@ state={
 	resources={
 		rubber = 75
 		oil = 5
+		coal = 3
 	}
 
 	history={
+		owner = INS
+		add_core_of = INS
 		victory_points = {
 			10237 3
 		}

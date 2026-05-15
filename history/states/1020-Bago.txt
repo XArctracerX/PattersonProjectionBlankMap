@@ -10,6 +10,8 @@ state={
 		tungsten = 132 
 	}
 	history={
+		owner = BRM
+		add_core_of = BRM
 		victory_points = {
 			1330 5 
 		}

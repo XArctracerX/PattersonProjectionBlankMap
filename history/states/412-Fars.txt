@@ -4,6 +4,7 @@ state={
 	name="STATE_412"
 
 	history={
+		owner = PER
 		victory_points = {
 			8117 10
 		}
@@ -12,6 +13,7 @@ state={
 			industrial_complex = 1
 			arms_factory = 1
 		}
+		add_core_of = PER
 	}
 
 	provinces={

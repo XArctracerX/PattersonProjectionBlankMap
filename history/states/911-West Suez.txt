@@ -6,6 +6,8 @@ state={
 	state_category = pastoral
 
 	history={
+		owner = ENG
+		add_core_of = EGY
 		buildings = {
 			infrastructure = 3
 			12049 = {

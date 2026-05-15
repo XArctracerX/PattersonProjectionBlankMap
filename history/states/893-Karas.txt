@@ -5,6 +5,7 @@ state={
 	state_category = wasteland
 
 	history={
+		owner = SAF
 		buildings = {
 			infrastructure = 2
 			2229 = { # Very much the only port in the country, though they do have one despite vanilla's objection
@@ -14,6 +15,10 @@ state={
 		victory_points = {
 			2229 1
 		}
+		
+		add_core_of = SAF
+		add_core_of = NMB
+
 	}
 
 	provinces={

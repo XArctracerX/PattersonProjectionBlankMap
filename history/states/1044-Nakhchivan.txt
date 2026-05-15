@@ -5,6 +5,8 @@ state={
 		6997 
 	}
 	history={
+		owner = SOV
+		add_core_of = SOV
 		buildings = {
 			infrastructure = 1
 
@@ -12,6 +14,8 @@ state={
 		victory_points = {
 			6997 1
 		}
+		add_claim_by = ARM
+		add_core_of = AZR
 
 	}
 	manpower=126696

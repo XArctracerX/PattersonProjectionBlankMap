@@ -13,10 +13,14 @@ state={
 		victory_points = {
 			12717 5
 		}
+		owner = RAJ
 		buildings = {
 			infrastructure = 2 #was 3
 			air_base = 3
 		}
+		add_core_of = PAK
+		add_core_of = RAJ
+		add_claim_by = AFG # to represent that they wanted it
 	}
 
 	provinces={

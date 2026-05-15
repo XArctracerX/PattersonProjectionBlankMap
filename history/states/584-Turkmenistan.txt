@@ -7,6 +7,8 @@ state={
 	}
 
 	history={
+		add_core_of = TMS
+		owner = SOV
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -23,6 +25,9 @@ state={
 		victory_points = {
 			7477 1
 		}
+		add_core_of = SOV
+		add_core_of = TMS
+
 	}
 
 	provinces={

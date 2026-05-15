@@ -13,6 +13,7 @@ state={
 	}
 
 	history={
+		owner = USA
 		buildings = {
 			infrastructure = 2 #was 4
 			# Hoover Dam
@@ -24,6 +25,7 @@ state={
 		victory_points = {
 			4607 2
 		}
+		add_core_of = USA
 	}
 
 	provinces={

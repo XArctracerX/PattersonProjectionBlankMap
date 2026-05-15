@@ -12,6 +12,7 @@ state={
 	}
 
 	history={
+		owner = CHL
 		buildings = {
 			infrastructure = 3 #was: 5
 			arms_factory = 1
@@ -24,6 +25,7 @@ state={
 				bunker = 1
 			}
 		}
+		add_core_of = CHL
 		victory_points = {
 			650 10
 		}

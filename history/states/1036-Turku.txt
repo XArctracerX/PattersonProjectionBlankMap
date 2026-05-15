@@ -7,6 +7,8 @@ state = {
 	state_category = town
 	
 	history = {
+		owner = FIN
+		add_core_of = FIN
 		
 		victory_points = { #Turku
 			3083 3
@@ -36,7 +38,7 @@ state = {
 	}
 
 	provinces = {
-		32 169 3009 3083 3117 6066 9094 9194 13101 
+		32 169 3009 3083 3117 6066 9094 9194 
 	}
 	
 	local_supplies = 0.0

@@ -9,9 +9,11 @@ state={
 	resources = {
 		chromium = 6
 		steel = 1
+		coal = 7
 	}
 
 	history={
+		owner = SOV
 		victory_points = {
 			1375 1
 		}
@@ -25,6 +27,8 @@ state={
 			infrastructure = 3
 			industrial_complex = 2
 		}
+		add_core_of = SOV
+		add_core_of = KAZ
 	}
 
 	provinces={

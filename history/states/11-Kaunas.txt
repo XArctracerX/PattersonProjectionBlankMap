@@ -7,6 +7,7 @@ state={
 	state_category = town
 	
 	history={
+		owner = LIT
 		victory_points = {
 			6296 5
 		}
@@ -19,6 +20,7 @@ state={
 			industrial_complex = 2
 			#air_base = 4
 		}
+		add_core_of = LIT
 	}
 	
 	provinces={

@@ -4,8 +4,13 @@ state={
 	name="STATE_381"
 	manpower = 225564
 	state_category = rural
+
+	resources = {
+		coal = 11
+	}
 	
 	history={
+		owner = USA
 		buildings = {
 			infrastructure = 2 #was 3
 		}
@@ -15,6 +20,7 @@ state={
 		victory_points = {
 			10711 1
 		}
+		add_core_of = USA
 	}
 
 	provinces={

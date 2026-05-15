@@ -6,7 +6,12 @@ state={
 	
 	state_category = town
 
+	resources = {
+		coal = 3
+	}
+
 	history={
+		owner = TUR
 		victory_points = {
 			9893 15
 		}
@@ -26,6 +31,8 @@ state={
 				naval_base = 3
 			}
 		}
+		add_core_of = TUR
+		add_claim_by = KUR
 	}
 
 	provinces={

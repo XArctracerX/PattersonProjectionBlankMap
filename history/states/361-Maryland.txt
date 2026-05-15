@@ -6,6 +6,7 @@ state={
 	}
 
 	history={
+		owner = USA
 		victory_points = {
 			3957 40 
 		}
@@ -27,6 +28,8 @@ state={
 				naval_facility = 1
 			}
 		}
+		add_core_of = USA
+
 	}
 	manpower=1865282
 	buildings_max_level_factor=1.000

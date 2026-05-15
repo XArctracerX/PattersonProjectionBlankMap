@@ -10,12 +10,14 @@ state={
 	state_category = large_city
 
 	history={
+		owner = ARG
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 5
 			air_base = 1
 			arms_factory = 1
 		}
+		add_core_of = ARG
 
 		victory_points = {
 			12964 3

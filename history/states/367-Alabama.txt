@@ -6,7 +6,12 @@ state={
 	
 	state_category = city
 
+	resources = {
+		coal = 14
+	}
+
 	history={
+		owner = USA
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 3
@@ -14,6 +19,8 @@ state={
 				naval_base = 3
 			}
 		}
+		add_core_of = USA
+		add_core_of = CSA
 		victory_points = {
 			7480 1 
 		}

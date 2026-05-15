@@ -3,9 +3,10 @@ state={
 	name="STATE_1160"
 	provinces={
 		13455 13456 13578 13579 13670 13676 13744 13763 
-	}
-		
-	history={
+}
+		history={
+		owner = ANT	
+		add_core_of = ANT
 	}
 	impassable = yes
 	manpower=1

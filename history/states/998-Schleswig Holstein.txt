@@ -8,9 +8,13 @@ state= {
 		victory_points = {
 			11366 1 
 		}	
+		owner = GER
 		buildings = {
 			infrastructure = 3
 		}
+		add_core_of = GER
+		add_core_of = SHL
+		add_core_of = PRE
 	}
 
 	provinces= {

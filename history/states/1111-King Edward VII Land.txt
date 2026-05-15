@@ -4,9 +4,9 @@ state={
 	provinces={
 		13375 13376  13378 13379 13381 13480 13481 13500 13501 13526 
 	}
-	
 	history={
-
+		owner = ANT	
+		add_core_of = ANT
 	}
 	
 	manpower=1

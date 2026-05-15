@@ -8,12 +8,15 @@ state={
 		13280 13279 13278
 	}
 	history={
+		owner = BRA
 		victory_points = {
 			10960 1
 		}
 		buildings = {
 			infrastructure = 1
 		}
+		add_core_of = BRA
+		add_core_of = BOL
 	}
 	manpower=58036
 	buildings_max_level_factor=1.000

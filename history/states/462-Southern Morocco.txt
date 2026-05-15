@@ -7,6 +7,7 @@ state={
 	state_category = wasteland
 
 	history={
+		owner = FRA
 		buildings = {
 			infrastructure = 1
 			air_base = 1
@@ -17,6 +18,7 @@ state={
 		victory_points = {
 			4933 1
 		}
+		add_core_of = MOR 
 	}
 
 	provinces={

@@ -4,7 +4,12 @@ state={
 	name="STATE_480"
 	manpower = 493571
 	state_category = rural
+	resources = {
+		coal = 4 
+	}
+
 	history={
+		owner = MEX
 		buildings = {
 			infrastructure = 2 #was 3
 			industrial_complex = 1
@@ -15,6 +20,8 @@ state={
 		victory_points = {
 			7973 3
 		}
+		add_core_of = MEX
+		add_core_of = RIG
 	}
 	provinces={
 		2060 2104 7973 10746 10800 12811 13263

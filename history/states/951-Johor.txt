@@ -8,6 +8,8 @@ state={
 		aluminium = 25
 	}
 	history={
+		owner = MAL
+		add_core_of = MAL
 		buildings = {
 			infrastructure = 2 #was 4
 			industrial_complex = 1

@@ -10,6 +10,7 @@ state={
 	}
 
 	history={
+		owner = CZE
 		victory_points = {
 			9692 10 
 		}
@@ -32,6 +33,8 @@ state={
 			fuel_silo = 1
 			air_base = 3
 		}
+		add_core_of = CZE
+		add_core_of = SLO
 	}
 
 	provinces={

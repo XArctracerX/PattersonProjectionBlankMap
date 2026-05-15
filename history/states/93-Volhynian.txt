@@ -6,12 +6,20 @@ state={
 		victory_points = {
 			6557 1
 		}
+		#victory_points = {
+		#	572 5
+		#}
 		victory_points = {
 			422 3
 		}
+		owner = POL
 		buildings = {
 			infrastructure = 3
+
 		}
+		add_core_of = POL
+		add_core_of = UKR
+
 	}
 
 	provinces={

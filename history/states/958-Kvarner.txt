@@ -6,6 +6,7 @@ state={
 	}
 
 	history={
+		owner = YUG
 		buildings = {
 			infrastructure = 2 #was 3
 			dockyard = 1
@@ -17,6 +18,8 @@ state={
 		victory_points = {
 			11901 1 
 		}
+		add_core_of = YUG
+		add_core_of = CRO
 	}
 	manpower=595693
 	buildings_max_level_factor=1.000

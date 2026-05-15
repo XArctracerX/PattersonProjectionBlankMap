@@ -5,6 +5,23 @@ state={
 		2072  13238 13250 13251 
 	}
 	history={
+		set_variable = {
+			ETH_state_development_production_speed = -0.3
+
+		}
+		set_variable = {
+			ETH_state_development_local_building_slots_factor = -0.3
+
+		}
+		add_dynamic_modifier = {
+			modifier = ETH_state_development_dynamic_modifier
+
+		}
+		add_dynamic_modifier = {
+			modifier = ETH_state_decentralization_dynamic_modifier
+			scope = ETH
+
+		}
 		buildings = {
 
 		}
@@ -17,6 +34,16 @@ state={
 		victory_points = {
 			13287 1 
 		}
+		owner = ETH
+		add_core_of = ETH
+		add_core_of = TIG
+		add_claim_by = ERI
+		1936.6.1 = {
+			owner = ITA
+			controller = ITA
+
+		}
+
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000

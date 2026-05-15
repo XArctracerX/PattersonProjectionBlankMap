@@ -7,6 +7,7 @@ state={
 	state_category = tiny_island
 
 	history={
+		owner = USA
 		victory_points = {
 			13334 1
 		}
@@ -17,6 +18,8 @@ state={
 				naval_base = 3
 			}
 		}
+		add_core_of = CUB
+
 	}
 
 	provinces={

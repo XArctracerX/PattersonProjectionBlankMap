@@ -5,7 +5,7 @@ state={
 	resources={
 		steel=28.000
 		aluminium=9.000
-		oil=2
+		coal=25
 	}
 
 	history={
@@ -24,6 +24,7 @@ state={
 		victory_points = {
 			689 1
 		}
+		owner = USA
 		buildings = {
 			infrastructure = 4 #was: 7
 			arms_factory = 1
@@ -33,6 +34,7 @@ state={
 				naval_base = 2
 			}
 		}
+		add_core_of = USA
 	}
 
 	provinces={

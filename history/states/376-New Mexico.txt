@@ -10,14 +10,17 @@ state={
 		oil=14 # was: 20
 		aluminium=30 # was: 52
 		tungsten = 4 #quite large deposits but underexploited in peace time.
+		coal = 8
 	}
 
 
 	history={
+		owner = USA
 		buildings = {
 			infrastructure = 2 #was 4
 			industrial_complex = 1
 		}
+		add_core_of = USA
 		victory_points = {
 			4975 2
 		}

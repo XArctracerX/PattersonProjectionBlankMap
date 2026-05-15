@@ -3,9 +3,11 @@ state={
 	name="STATE_112"
 	resources={
 		tungsten=50
+		coal = 1
 	}
 
 	history={
+		owner = POR
 		victory_points = {
 			11805 20 
 		}
@@ -22,6 +24,7 @@ state={
 				naval_base = 8
 			}
 		}
+		add_core_of = POR
 
 	}
 

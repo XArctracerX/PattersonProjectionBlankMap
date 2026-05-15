@@ -6,6 +6,11 @@ state={
 		chromium=8.000
 	}
 	history={
+		owner = MAN
+		add_core_of = MAN
+		add_core_of = CHI
+		add_core_of = PRC
+		
 		buildings = {
 			infrastructure = 2 #was 3
 

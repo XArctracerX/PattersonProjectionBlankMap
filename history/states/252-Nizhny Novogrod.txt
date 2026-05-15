@@ -7,6 +7,7 @@ state={
 	state_category = city
 
 	history={
+		owner = SOV
 		victory_points = {
 			11375 10
 		}
@@ -14,6 +15,12 @@ state={
 			infrastructure = 3 #was: 5
 			arms_factory = 1 # Plant No. -- | Plant No. 21
 			air_base = 1
+		}
+		add_core_of = SOV
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 3
+			}
 		}
 	}
 

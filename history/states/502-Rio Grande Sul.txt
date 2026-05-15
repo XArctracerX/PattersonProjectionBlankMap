@@ -8,9 +8,11 @@ state={
 
 	resources={
 		aluminium = 5
+		coal = 14
 	}
 	
 	history={
+		owner = BRA
 		buildings = {
 			industrial_complex = 1
 			infrastructure = 3 #was: 5
@@ -19,6 +21,7 @@ state={
 				naval_base = 4
 			}
 		}
+		add_core_of = BRA
 		victory_points = {
 			10447 10
 		}

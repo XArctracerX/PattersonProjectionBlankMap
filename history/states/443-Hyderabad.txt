@@ -7,6 +7,7 @@ state={
 	state_category = town
 
 	history={
+		owner = RAJ
 		victory_points = {
 			4110 3
 		}
@@ -14,6 +15,9 @@ state={
 			infrastructure = 2 #was: 5
 			arms_factory = 1
 		}
+		add_core_of = PAK
+		add_core_of = RAJ
+
 	}
 
 	provinces={

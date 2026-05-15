@@ -7,9 +7,11 @@ state={
 	state_category = metropolis
 	resources={
 		steel=27 # was: 48
+		coal = 25
 	}
 
 	history={
+		owner = ENG
 		buildings = {
 			infrastructure = 4 #was: 8
 			arms_factory = 1
@@ -25,6 +27,7 @@ state={
 		victory_points = {
 			11345 1
 		}
+		add_core_of = ENG
 	}
 
 	provinces={

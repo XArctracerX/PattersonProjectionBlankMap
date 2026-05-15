@@ -4,6 +4,7 @@ state={
 	name="STATE_341"
 
 	history= {
+		owner = TUR
 		victory_points = {
 			11842 5
 		}
@@ -14,6 +15,13 @@ state={
 				naval_base = 3
 				coastal_bunker = 2
 			}
+		}
+		add_core_of = TUR
+
+		set_demilitarized_zone = yes
+		
+		1936.7.20 = {
+			set_demilitarized_zone = no
 		}
 	}
 

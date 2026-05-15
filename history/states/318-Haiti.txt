@@ -12,6 +12,7 @@ state={
 	buildings_max_level_factor=1.000
 	
 	history={
+		owner = HAI
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -22,6 +23,7 @@ state={
 
 			}
 		}
+		add_core_of = HAI
 		victory_points = {
 			4641 5 
 		}

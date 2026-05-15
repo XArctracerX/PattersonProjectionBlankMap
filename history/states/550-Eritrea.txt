@@ -5,6 +5,8 @@ state={
 		steel=2.000
 	}
 	history={
+		owner = ITA
+		add_core_of = ERI
 		victory_points = {
 			12766 1 
 		}

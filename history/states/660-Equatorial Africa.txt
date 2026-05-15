@@ -11,6 +11,8 @@ state={
 	}
 	
 	history={
+		owner = FRA
+		add_core_of = CAR
 		victory_points = {
 			12830 1
 		}

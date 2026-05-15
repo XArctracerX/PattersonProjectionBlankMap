@@ -8,7 +8,7 @@ state={
 
 	history={
 		owner = DEN
-		add_core_of = DEN
+		
 	}
 	
 	provinces={14228 10245 10636 14186 14349 14328 14277} 

@@ -15,8 +15,8 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = LIT
-		add_core_of = PRE
+		
+		
 
 	}
 	manpower=150000

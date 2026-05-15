@@ -7,7 +7,7 @@ state={
 
 	history={
 		owner = BEL		
-		add_core_of = RWA
+		
 		
 		IF = {
 			limit = {

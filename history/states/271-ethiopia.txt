@@ -31,8 +31,8 @@ state={
 		victory_points = {
 			8036 1 
 		}
-		add_core_of = ETH
-		add_core_of = ORO
+		
+		
 
 	}
 	manpower=1800000

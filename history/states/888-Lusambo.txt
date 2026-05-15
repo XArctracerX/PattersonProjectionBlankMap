@@ -28,7 +28,7 @@ state={
 		victory_points = {
 			7716 1
 		}
-		add_core_of = COG
+		
 
 	}
 

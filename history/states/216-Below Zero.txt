@@ -15,8 +15,8 @@ state={
 			# Lower Svir Hydroelectric Station
 			11153 = { dam = 1 }
 		}
-		add_core_of = SOV
-		add_core_of = KAR
+		
+		
 	}
 
 	provinces={

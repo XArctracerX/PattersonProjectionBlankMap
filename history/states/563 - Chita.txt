@@ -20,8 +20,8 @@ state={
 		victory_points = {
 			10559 1
 		}
-		add_core_of = SOV
-		add_core_of = FER
+		
+		
 		add_claim_by = BYA #not worth a core
 	}
 

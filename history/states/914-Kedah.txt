@@ -13,7 +13,7 @@ state={
 		buildings = {
 			infrastructure = 2 #was 3
 		}
-		add_core_of = MAL
+		
 	}
 	provinces={
 		1291 7342 12144 

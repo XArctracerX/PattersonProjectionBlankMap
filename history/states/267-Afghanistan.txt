@@ -24,7 +24,7 @@ state={
 		victory_points = {
 			12831 1
 		}
-		add_core_of = AFG
+		
 	}
 
 	provinces={

@@ -16,7 +16,7 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = MAL
+		
 	}
 	provinces={
 		4355 7329 12199 

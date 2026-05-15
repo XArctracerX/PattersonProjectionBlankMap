@@ -23,7 +23,7 @@ state={
 			}
 		}
 		add_claim_by = OCC
-		add_core_of = FRA
+		
 	}
 
 	provinces={

@@ -30,8 +30,8 @@ state = {
 				naval_base = 6
 			}
 		}
-		add_core_of = ITA
-		add_core_of = LBV
+		
+		
 	}
 
 	provinces = {

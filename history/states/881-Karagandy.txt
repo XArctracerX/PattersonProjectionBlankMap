@@ -15,8 +15,8 @@ state = {
 		victory_points = {
 			1243 1
 		}
-		add_core_of = SOV
-		add_core_of = KAZ
+		
+		
 	}
 
 	provinces = {

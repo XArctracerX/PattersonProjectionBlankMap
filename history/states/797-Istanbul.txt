@@ -22,7 +22,7 @@ state={
 				naval_base = 8
 			}
 		}
-		add_core_of = TUR
+		
 		set_demilitarized_zone = yes
 	}
 

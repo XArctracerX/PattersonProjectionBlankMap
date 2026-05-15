@@ -12,9 +12,9 @@ state={
 		buildings = {
 			infrastructure = 1 #was 3
 		}
-		add_core_of = YUG
-		add_core_of = SER
-		add_core_of = KOS
+		
+		
+		
 		add_claim_by = ALB
 	}
 	manpower=138016

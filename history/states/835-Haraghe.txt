@@ -41,9 +41,9 @@ state={
 			12812 1 
 		}
 		owner = ETH
-		add_core_of = ETH
-		add_core_of = SOM
-	#	add_core_of = HAR # didn't exist since 1887. ethnically populated by somali, unlocked by federalisation focus for ethiopia.
+		
+		
+	#	 # didn't exist since 1887. ethnically populated by somali, unlocked by federalisation focus for ethiopia.
 
 
 	}

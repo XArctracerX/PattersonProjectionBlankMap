@@ -13,7 +13,7 @@ state={
 		victory_points = {
 			7843 1 #Ulaangom
 		}
-		add_core_of = MON
+		
 		add_claim_by = CHI
 	}
 	manpower=149000

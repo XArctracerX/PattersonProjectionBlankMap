@@ -10,9 +10,9 @@ state= 	{
 		buildings = {
 			infrastructure = 2 #was 3
 		}
-		add_core_of = FIN
-		add_core_of = SMI
-		add_core_of = KAR
+		
+		
+		
 
 		victory_points = {
 			197 1

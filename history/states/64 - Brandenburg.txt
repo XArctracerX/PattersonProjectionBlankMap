@@ -25,8 +25,8 @@ state={
                 land_facility = 1 #Representing Kommersdorf's Research Facilities
             }
 		}
-		add_core_of = GER
-		add_core_of = PRE
+		
+		
 	}
 
 	provinces={

@@ -17,8 +17,8 @@ state={
 			# Dnieprostroi Hydroelectric Station
 			11405 = { dam = 1 }
 		}
-		add_core_of = SOV
-		add_core_of = UKR
+		
+		
 	}
 
 	provinces={

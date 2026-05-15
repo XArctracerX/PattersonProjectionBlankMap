@@ -40,7 +40,7 @@ state={
 			# Queenston-Chippawa Hydroelectric Plant
 			749 = { dam = 1 }
 		}
-		add_core_of = CAN
+		
 	}
 
 	provinces={

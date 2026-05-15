@@ -28,7 +28,7 @@ state = {
 			#Solbergfoss Hydroelectric Power Station
 			11184 = { dam = 1 }
 		}
-		add_core_of = NOR
+		
 	}
 
 	provinces={

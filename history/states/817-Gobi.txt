@@ -13,7 +13,7 @@ state={
 		victory_points = {
 			12612 1 #Sainshand
 		}
-		add_core_of = MON
+		
 		add_claim_by = CHI
 	}
 	manpower=11000

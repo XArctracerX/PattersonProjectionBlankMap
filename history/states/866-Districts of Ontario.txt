@@ -6,7 +6,7 @@ state={
 	}
 	history = {
 		owner = CAN
-		add_core_of = CAN
+		
 	}
 	manpower=42364
 	state_category = pastoral

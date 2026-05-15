@@ -21,10 +21,10 @@ state={
 				naval_base = 2
 			}
 		}
-		add_core_of = ITA
-		add_core_of = YUG
-		add_core_of = CRO
-		add_core_of = LBV
+		
+		
+		
+		
 	}
 	manpower=125850
 	buildings_max_level_factor=1.000

@@ -20,7 +20,7 @@ state={
 		victory_points = {
 			7408 10 
 		}
-		add_core_of = SIA
+		
 	}
 
 	provinces={

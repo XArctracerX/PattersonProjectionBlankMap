@@ -27,7 +27,7 @@ state={
 		victory_points = {
 			7389 1 
 		}
-		add_core_of = PHI
+		
 	}
 
 	provinces={

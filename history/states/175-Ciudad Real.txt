@@ -17,7 +17,7 @@ state={
 			infrastructure = 3 #was: 6
 			industrial_complex = 1
 		}
-		add_core_of = SPR
+		
 	}
 	manpower=526903
 	buildings_max_level_factor=1.000

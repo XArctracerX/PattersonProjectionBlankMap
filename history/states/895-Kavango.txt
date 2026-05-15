@@ -12,8 +12,8 @@ state={
 
 		}
 		
-		add_core_of = SAF
-		add_core_of = NMB
+		
+		
 
 		victory_points = {
 			8136 1

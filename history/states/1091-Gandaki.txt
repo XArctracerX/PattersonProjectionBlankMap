@@ -14,7 +14,7 @@ state={
 		victory_points = {
 			13466 1 
 		}
-		add_core_of = NEP
+		
 
 	}
 	manpower=2377516

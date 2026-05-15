@@ -28,8 +28,8 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = USA
-		add_core_of = CSA
+		
+		
 		victory_points = {
 			10337 15
 		}

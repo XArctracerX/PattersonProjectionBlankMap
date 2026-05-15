@@ -15,8 +15,8 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = BRA
-		add_core_of = BOL
+		
+		
 	}
 	manpower=58036
 	buildings_max_level_factor=1.000

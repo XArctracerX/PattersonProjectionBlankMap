@@ -17,8 +17,8 @@ state={
 				naval_base = 1 
 			}
 		}
-		add_core_of = MEX
-		add_core_of = RIG
+		
+		
 		victory_points = {
 			12835 20 
 		}

@@ -25,8 +25,8 @@ state={
 			# Sarrans Dam right at the border with Auvergne but still in Occitania, diminished the resources slightly to avoid resource creep
 			6770 = { dam = 1 }
 		}
-		add_core_of = OCC
-		add_core_of = FRA
+		
+		
 	}
 
 	provinces={

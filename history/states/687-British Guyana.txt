@@ -8,7 +8,7 @@ state={
 		4982 8107 12716 
 	}
 	history={
-		add_core_of = GYA
+		
 		add_claim_by = VEN
 		owner = ENG
 		victory_points = {

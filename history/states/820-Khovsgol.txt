@@ -16,7 +16,7 @@ state={
 		victory_points = {
 			1834 1 #Erdenet
 		}
-		add_core_of = MON
+		
 		add_claim_by = CHI
 	}
 	manpower=88200

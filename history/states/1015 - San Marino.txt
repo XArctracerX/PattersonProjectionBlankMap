@@ -7,9 +7,9 @@ state={
 		13308
 	}
 	history={
-		add_core_of = ITA
+		
 		owner = ITA
-		add_core_of = PAP
+		
 		victory_points = {
 			13308 3
 		}

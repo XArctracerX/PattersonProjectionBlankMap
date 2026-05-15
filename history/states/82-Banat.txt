@@ -20,8 +20,8 @@ state={
 			#Reșița Works, moved one mil from Bucharest
 			arms_factory = 1
 		}
-		add_core_of = ROM
-		add_core_of = TRA
+		
+		
 	}
 
 	provinces={

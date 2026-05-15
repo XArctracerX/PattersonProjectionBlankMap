@@ -19,8 +19,8 @@ state={
 		victory_points = {
 			2209 1 
 		}
-		add_core_of = PAR
-		add_core_of = BOL
+		
+		
 	}
 	
 	provinces={

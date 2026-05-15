@@ -8,9 +8,6 @@ state={
 	}
 	history={
 		
-		add_claim_by = BHU # bit of a stretch but considering both Nepal and Bhutan owned it at one point and have large minority populations it seems alright
-		add_claim_by = NEP
-		owner = RAJ
 		victory_points = {
 			4435 1
 		}

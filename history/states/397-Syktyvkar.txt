@@ -8,7 +8,7 @@ state={
 	# 	oil=7 # oil extracted much later
 	# }
 	history={
-		owner = SOV
+		
 		buildings = {
 			infrastructure = 1 #was 2
 

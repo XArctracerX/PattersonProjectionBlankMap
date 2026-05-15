@@ -5,7 +5,7 @@ state={
 		529 3512 6469 6570 9482 
 	}
 	history={
-		owner = GER
+		
 		buildings = {
 			infrastructure = 4 #was 7
 			industrial_complex = 2

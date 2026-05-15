@@ -5,7 +5,7 @@ state={
 		1955 10791 10850 12702 
 	}
 	history = {
-		owner = SAU
+		
 		
 		buildings = {
 			infrastructure = 2

@@ -5,7 +5,7 @@ state={
 		1965 12755 13264 
 	}
 	history={
-		owner = MEX
+		
 		buildings = {
 			infrastructure = 3
 			arms_factory = 2

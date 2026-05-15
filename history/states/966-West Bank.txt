@@ -7,9 +7,6 @@ state = {
 	local_supplies = 0.000
 
 	history = {
-		owner = PAL
-		
-		add_claim_by = ISR
 
 		buildings = {
 			infrastructure = 3

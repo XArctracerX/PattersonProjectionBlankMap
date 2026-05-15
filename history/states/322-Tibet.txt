@@ -5,12 +5,12 @@ state={
 	impassable = yes
 
 	history={
-		owner = TIB
+		
 		buildings = {
 
 		}
 		
-		add_claim_by = CHI
+		
 	}
 
 	provinces={

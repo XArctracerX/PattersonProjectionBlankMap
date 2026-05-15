@@ -32,13 +32,13 @@ state={
 			13296 1 
 		}
 		
-		owner = ETH
+		
 		
 		
 		
 
 		1936.6.1 = {
-			owner = ITA
+			
 			controller = ITA
 		}
 	}

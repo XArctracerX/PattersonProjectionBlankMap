@@ -5,7 +5,7 @@ state={
 		1657 4666 
 	}
 	history = {
-		owner = CAN
+		
 		
 		
 	}

@@ -9,7 +9,7 @@ state={
 	#}
 
 	history={
-		owner = JAP
+		
 		
 		buildings = {
 			infrastructure = 4 #was: 8

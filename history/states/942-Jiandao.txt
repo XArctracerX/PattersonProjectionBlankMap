@@ -7,11 +7,7 @@ state={
 	manpower=1924174
 	state_category=pastoral
 	history={
-		owner = MAN
 		
-		
-		
-		#add_claim_by = GUK
 		
 		buildings = {
 			infrastructure = 2 #was 3

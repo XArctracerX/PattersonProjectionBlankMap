@@ -9,10 +9,6 @@ state={
 	}
 	history = {
 
-		owner = ARG
-		
-		add_claim_by = CHL
-
 		buildings = {
 			infrastructure = 1
 			13300 = {

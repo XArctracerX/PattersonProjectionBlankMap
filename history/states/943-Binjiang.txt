@@ -7,11 +7,7 @@ state={
 	manpower=4224174
 	state_category=town
 	history={
-		owner = MAN
 		
-		
-		
-		#add_claim_by = GUK
 		victory_points = {
 			10433 9
 		}

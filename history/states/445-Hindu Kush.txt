@@ -12,7 +12,7 @@ state={
 		victory_points = {
 			5105 1
 		}
-		owner = RAJ
+		
 		buildings = {
 			infrastructure = 2 #was 3
 			air_base = 4

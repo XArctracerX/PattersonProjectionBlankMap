@@ -4,7 +4,7 @@ state={
 	name="STATE_484"
 
 	history={
-		owner = MEX
+		
 		buildings = {
 			dockyard = 1
 			infrastructure = 2

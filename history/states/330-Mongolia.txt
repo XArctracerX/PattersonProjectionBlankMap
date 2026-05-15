@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = MON
+		
 		victory_points = {
 			4801 10
 		}
@@ -25,7 +25,7 @@ state={
 			air_base = 1
 		}
 		
-		add_claim_by = CHI
+		
 	}
 
 	provinces={

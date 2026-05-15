@@ -5,7 +5,7 @@ state={
 		rubber=12.000
 	}
 	history={
-		owner = LIB
+		
 		buildings = {
 			infrastructure = 1
 			arms_factory = 1

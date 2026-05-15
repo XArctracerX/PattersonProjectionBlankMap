@@ -5,7 +5,7 @@ state={
 		12960 13292 
 	}
 	history= 	{
-		owner = ENG
+		
 		buildings = {
 			infrastructure = 1
 			12960 = {
@@ -15,7 +15,6 @@ state={
 		victory_points = {
 			12960 1
 		}
-		add_claim_by = ARG
 	}
 	manpower=2463
 	buildings_max_level_factor=1.000

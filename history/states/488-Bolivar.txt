@@ -5,7 +5,7 @@ state={
 		1981 7915 10736 10849 10879 13361 13362  
 	}
 	history={
-		owner = VEN
+		
 		buildings = {
 			infrastructure = 1
 

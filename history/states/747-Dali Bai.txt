@@ -11,11 +11,7 @@ state={
 		steel= 6 #yunnan iron + 3 for copper lead, sulphur etc. 
 	}		
 	history={
-		owner = YUN
 		
-		
-		
-		add_claim_by = BRM
 		victory_points = {
 			7965 3 
 		}

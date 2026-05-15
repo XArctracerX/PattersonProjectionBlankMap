@@ -5,7 +5,7 @@ state={
 		4861 12674 13271 
 	}
 	history={
-		owner = ICE
+		
 		victory_points = {
 			12674 3 
 		}
@@ -24,7 +24,7 @@ state={
 			}
 
 		}
-		add_claim_by = DEN
+		
 		
 
 	}

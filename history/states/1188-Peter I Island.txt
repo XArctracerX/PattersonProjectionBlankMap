@@ -6,7 +6,6 @@ state={
 	state_category = small_island
 	history={
 		owner = ANT
-		add_claim_by = NOR
 		buildings = {
 			infrastructure = 1
 			14065 = {

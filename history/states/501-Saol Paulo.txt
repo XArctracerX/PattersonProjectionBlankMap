@@ -7,7 +7,7 @@ state={
 	state_category = megalopolis
 	
 	history={
-		owner = BRA
+		
 		buildings = {
 			arms_factory = 2
 			industrial_complex = 5

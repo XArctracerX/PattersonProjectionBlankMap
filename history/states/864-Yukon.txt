@@ -5,7 +5,7 @@ state={
 		3606 7869 7891 
 	}
 	history = {
-		owner = CAN
+		
 		
 	}
 	manpower=4364 # guess in between pop census of 31 and 41

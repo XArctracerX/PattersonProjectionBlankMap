@@ -5,17 +5,10 @@ state={
 		6678 
 	}
 	history={
-		owner = AUS
+		
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
-		}
-		
-		add_claim_by = SWI
-		1938.3.12 = {
-			owner = GER
-			controller = GER
-			
 		}
 		victory_points = {
 			6678 1

@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = SOV
+		
 		victory_points = {
 			3134 5 
 		}
@@ -22,8 +22,6 @@ state={
 				coastal_bunker = 1
 			}
 		}
-		
-		add_claim_by = SMI
 	}
 
 	provinces={

@@ -40,7 +40,7 @@ state={
 		victory_points = {
 			12812 1 
 		}
-		owner = ETH
+		
 		
 		
 	#	 # didn't exist since 1887. ethnically populated by somali, unlocked by federalisation focus for ethiopia.

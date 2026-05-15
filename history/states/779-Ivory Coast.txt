@@ -5,7 +5,7 @@ state={
 		5013 5070 8065 8122 10762 10803 
 	}
 	history={
-		owner = FRA
+		
 		
 		victory_points = {
 			10803 2

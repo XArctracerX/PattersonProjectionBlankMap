@@ -8,7 +8,7 @@ state={
 		2182 2210 2225 5202 12953 13288 
 	}
 	history={
-		owner = PRU
+		
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

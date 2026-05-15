@@ -9,7 +9,7 @@ state={
 		steel = 3
 	}
 	history={
-		owner = YUG
+		
 		buildings = {
 			infrastructure = 2
 			air_base = 1

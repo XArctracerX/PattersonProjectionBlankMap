@@ -5,7 +5,7 @@ state={
 		7913 8089 
 	}
 	history={
-		owner = MEX
+		
 		buildings = {
 			infrastructure = 2 #was 3
 		}

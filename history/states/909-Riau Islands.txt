@@ -9,7 +9,7 @@ state={
 		12113 13298
 	}
 	history = {
-		owner = INS
+		
 		
 		buildings = {
 			infrastructure = 2

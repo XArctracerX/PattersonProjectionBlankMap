@@ -8,7 +8,7 @@ state={
 		2031 8017 12865 
 	}
 	history={
-		owner = HON
+		
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1

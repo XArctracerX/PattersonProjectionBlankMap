@@ -6,7 +6,7 @@ state = {
 	local_supplies = 0.0 
 
 	history = {
-		owner = JOR
+		
 		
 
 		buildings = {

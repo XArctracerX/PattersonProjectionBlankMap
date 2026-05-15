@@ -5,7 +5,7 @@ state={
 		2228 5153 5204 10984 13275 
 	}
 	history={
-		owner = BRA
+		
 		victory_points = { 
 			5153 1 
 		}

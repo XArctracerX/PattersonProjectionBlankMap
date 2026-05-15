@@ -5,7 +5,7 @@ state={
 		761 763 3736 4753 13315
 	}
 	history = {
-		owner = CAN
+		
 		
 	}
 	manpower=42364

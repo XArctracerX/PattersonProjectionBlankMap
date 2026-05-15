@@ -20,7 +20,7 @@ state={
 		victory_points = {
 			1205 1
 		}
-		owner = GRE
+		
 		buildings = {
 			industrial_complex = 1
 			infrastructure = 2 #was 4

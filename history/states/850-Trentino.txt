@@ -10,16 +10,14 @@ state = {
 		victory_points = { #Trento
 			9598 1
 		}
-		owner = ITA
+		
 		buildings = {
 			infrastructure = 2 #was 3 before split
 
 			# Ponale Hydroelectric Power Plant
 			6631 = { dam = 1 }
 		}
-		
-		
-		add_claim_by = AUS
+
 	}
 
 	provinces = {

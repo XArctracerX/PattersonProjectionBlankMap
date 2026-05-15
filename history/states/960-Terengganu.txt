@@ -6,7 +6,7 @@ state={
 		rubber = 124
 	}
 	history={
-		owner = MAL
+		
 		victory_points = {
 			7329 1 
 		}

@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = SAF
+		
 		
 		buildings = {
 			infrastructure = 3 #was 5

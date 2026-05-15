@@ -11,7 +11,7 @@ state={
 	state_category = town
 
 	history={
-		owner = AFG
+		
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -22,8 +22,6 @@ state={
 		victory_points = {
 			12314 3
 		}
-		
-		add_claim_by = TAJ
 	}
 
 	provinces={

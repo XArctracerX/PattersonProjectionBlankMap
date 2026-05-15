@@ -5,9 +5,6 @@ state = {
 	state_category = town
 
 	history = {
-		owner = LEB
-		
-		add_claim_by = SYR
 
 		buildings = {
 			infrastructure = 2

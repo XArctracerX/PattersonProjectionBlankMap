@@ -9,8 +9,6 @@ state={
 	}
 	history={
 		
-		add_claim_by = VEN
-		owner = ENG
 		victory_points = {
 			4982 2
 		}

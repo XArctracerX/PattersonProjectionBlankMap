@@ -4,7 +4,7 @@ state={
 	name="STATE_805"
 
 	history= {
-		owner = ALB
+		
 		victory_points = {
 			914 3
 		}
@@ -12,8 +12,6 @@ state={
 			infrastructure = 1 #was 2
 		}
 		
-		add_claim_by = GRE
-		add_claim_by = ITA
 	}
 
 	provinces={

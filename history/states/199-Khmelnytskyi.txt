@@ -10,14 +10,14 @@ state={
 		victory_points = {
 			6429 1
 		}
-		owner = SOV
+		
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 1
 			air_base = 3
 		}
 		# #Lack of core represents UKR resistance and future issues with the area -Spicyalfredo
-		add_claim_by = SOV
+		
 		
 	}
 

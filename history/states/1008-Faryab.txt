@@ -7,8 +7,6 @@ state={
 	state_category = rural
 	
 	history={
-		owner = AFG
-		add_claim_by = TMS
 		buildings = {
 			infrastructure = 1
 		}

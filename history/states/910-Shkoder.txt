@@ -14,13 +14,12 @@ state={
 		victory_points = {
 			9780 3
 		}
-		owner = ALB
+		
 		buildings = {
 			infrastructure = 2 #was 3
 			industrial_complex = 1 
 		}
-		
-		add_claim_by = ITA
+
 	}
 
 	provinces={

@@ -6,7 +6,7 @@ state={
 		rubber=3.000
 	}
 	history={
-		owner = BRA
+		
 		victory_points = {
 			10934 3
 		}

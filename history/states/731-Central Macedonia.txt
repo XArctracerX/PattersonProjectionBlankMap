@@ -12,7 +12,7 @@ state={
 	}
 
 	history={
-		owner = GRE
+		
 		victory_points = {
 			11818 5 
 		}
@@ -29,9 +29,6 @@ state={
 				naval_base = 3
 			}
 		}
-		
-		add_claim_by = MAC
-		add_claim_by = BUL
 	}
 	
 	provinces={

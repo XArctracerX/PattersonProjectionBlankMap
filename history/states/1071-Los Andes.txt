@@ -6,10 +6,6 @@ state={
 	}
 	history = {
 
-		owner = ARG
-		
-		add_claim_by = BOL
-
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1

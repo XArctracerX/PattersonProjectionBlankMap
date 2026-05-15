@@ -9,7 +9,7 @@ state = {
 	}
 
 	history = {
-		owner = SOV
+		
 		buildings = {
 			infrastructure = 3 #was: 6
 			arms_factory = 1 #Plant No. 19

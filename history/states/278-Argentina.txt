@@ -16,7 +16,7 @@ state={
 		victory_points = {
 			1639 1 
 		}
-		owner = ARG
+		
 		buildings = {
 			infrastructure = 3 #was: 6
 			arms_factory = 2

@@ -5,7 +5,7 @@ state={
 		2175 10933 13273 
 	}
 	history={
-		owner = BRA
+		
 		buildings = {
 			infrastructure = 1
 			10933 = {

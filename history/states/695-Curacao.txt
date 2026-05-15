@@ -7,7 +7,7 @@ state={
 	#resources={
 	#}
 	history={
-		owner = HOL
+		
 		
 		buildings = {
 			infrastructure = 2 #was 3

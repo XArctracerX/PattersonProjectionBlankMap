@@ -6,7 +6,7 @@ state={
 	state_category = small_island
 	
 	history={
-		owner = USA
+		
 		buildings = {
 			infrastructure = 2
 			4155 = {

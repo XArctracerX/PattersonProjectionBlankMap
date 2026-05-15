@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = TIB
+		
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
@@ -26,7 +26,7 @@ state={
 			2014 1
 		}
 		
-		add_claim_by = CHI
+		
 	}
 
 	provinces={

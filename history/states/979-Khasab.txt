@@ -4,7 +4,7 @@ state={
 
 	history={
 		
-		owner = OMA
+		
 		victory_points = {
 			10904 1 
 		}

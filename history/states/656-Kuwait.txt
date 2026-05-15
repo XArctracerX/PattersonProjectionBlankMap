@@ -6,8 +6,6 @@ state = {
 	state_category = rural
 	
 	history = {
-		owner = KUW
-		
 		
 		victory_points = {
 			8085 1 

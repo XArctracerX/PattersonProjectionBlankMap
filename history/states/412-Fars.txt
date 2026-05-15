@@ -4,7 +4,7 @@ state={
 	name="STATE_412"
 
 	history={
-		owner = PER
+		
 		victory_points = {
 			8117 10
 		}

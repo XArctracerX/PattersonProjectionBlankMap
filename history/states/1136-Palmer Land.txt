@@ -6,8 +6,8 @@ state={
 }
 impassable = yes
 		history={
-		owner = ANT	
-		add_core_of = ANT
+			
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

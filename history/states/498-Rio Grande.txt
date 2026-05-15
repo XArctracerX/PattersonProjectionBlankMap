@@ -22,7 +22,7 @@ state={
 					has_dlc = "Trial of Allegiance"
 				}
 			}
-			set_demilitarized_zone = yes
+			
 		}
 	}
 	manpower=535261

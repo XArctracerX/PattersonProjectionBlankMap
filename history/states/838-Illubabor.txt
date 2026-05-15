@@ -33,12 +33,7 @@ state={
 		}
 		
 		
-		
-		1936.6.1 = {
-			
-			controller = ITA
 
-		}
 
 	}
 	provinces={

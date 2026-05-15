@@ -5,8 +5,8 @@ state={
 		13970 13985 14000 
 }
 		history={
-		owner = ANT	
-		add_core_of = ANT
+			
+		
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

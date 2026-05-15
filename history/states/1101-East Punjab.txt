@@ -11,9 +11,7 @@ state={
 	}
 
 	history={
-		
-		
-		#add_core_of = KHL 
+
 		buildings = {
 			infrastructure = 1
 		}

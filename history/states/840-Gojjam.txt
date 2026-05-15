@@ -28,14 +28,7 @@ state={
 		victory_points = {
 			13291 2 
 		}
-		
-		
-		
-		1936.6.1 = {
-			
-			controller = ITA
 
-		}
 
 	}
 	manpower=900000

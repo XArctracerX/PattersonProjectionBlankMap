@@ -33,13 +33,7 @@ state={
 		}
 		
 		
-		
-		
-		1936.6.1 = {
-			
-			controller = ITA
 
-		}
 
 	}
 	manpower=600000

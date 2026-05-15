@@ -7,7 +7,7 @@ state={
 	history=
 	{
 		
-		add_core_of = ANT
+		
 		buildings = {
 			infrastructure = 1
 			14030 = {
